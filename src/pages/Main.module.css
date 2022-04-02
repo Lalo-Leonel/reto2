@@ -1,0 +1,51 @@
+.container{
+    margin: 50px;
+    background-color: aliceblue;
+}
+.main{
+    font-size: larger;
+}
+.accion{
+    display: flex;
+    justify-content: space-between;
+}
+.select{
+    width: 50px;
+    margin-left: 5px;
+}
+.row{
+    background-color: white;
+    margin: 5px;
+}
+.thead{
+    background-color: darkblue;
+    color: white;
+}
+.columName{
+    width: 300px;
+}
+.columEpisode{
+    width: 100px;
+}
+.columDate{
+    width: 250px;
+}
+.columTime{
+    width: 100px;
+}
+.tbody{
+    background-color: aliceblue;
+}
+.paginacion{
+    display: flex;
+    justify-content: end;
+    gap: 4px;
+}
+.label{
+    background-color: darkblue;
+    color: white;
+    margin-left: 4px;
+    margin-right: 5px;
+    border-width: 2px;
+    padding: 2px;
+}
